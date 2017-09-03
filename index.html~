@@ -7,7 +7,7 @@ categories:
 
 <div class="row">
 	<div class="col-md-12">
-		<object class="pull-left biglogo" data="/images/DSC01761-crop.jpg" type="image/jpg"></object>
+		<object class="pull-left biglogo" data="/images/DSC01761-crop.jpg" type="image/jpg+xml"></object>
 		<div class="bigtitle logobox">
 			Indi's worm stories
 		</div>

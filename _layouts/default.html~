@@ -60,8 +60,8 @@
 						<span class="icon-bar"></span>
 					</button>
 					{% if page.categories.first != 'home' %}					
-					<object class="logo navbar-brand" data="/images/DSC01761-crop.jpg" type="image/jpg"></object>
-					<a class="navbar-brand" href="/">Indi's worm stories</a>
+					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
+					<a class="navbar-brand" href="/">bedford lab</a>
 					{% endif %}
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-element">
